@@ -1,4 +1,3 @@
-<!-- Banner Image -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x200.png?text=Nitya+Singh+-+Business+Analyst" alt="Banner" />
 </p>
